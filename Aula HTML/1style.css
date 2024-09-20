@@ -1,0 +1,17 @@
+head{
+background-color:dimgray;
+padding: 20px;
+text-align: center;
+}
+body{
+    background-color: dimgray;
+    padding: 20px;
+    text-align: center;
+}
+h1 p {
+margin-bottom: auto;
+border: aquamarine;
+border-color: #000;
+font-family: Arial, Helvetica, sans-serif;
+
+}
