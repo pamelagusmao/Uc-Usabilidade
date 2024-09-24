@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const confirmaSenha = document.getElementById('confirmaSenha').value;
 
         if (senha !== confirmaSenha) {
-            event.preventDefault(); // Impede o envio do formulário
+            event.preventDefault();
             alert('As senhas não coincidem!');
         }
     });
