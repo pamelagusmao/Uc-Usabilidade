@@ -5,7 +5,11 @@
 }
 
 body {
+<<<<<<< HEAD
     background-image: url(game-of-thrones-legends-mobil-oyunu-640x360.jpg);
+=======
+    background-image: url(Game_of_Thrones_Legends_OG_Image__2_.jpg);
+>>>>>>> 8bbc2547af0acab38b2005ccfb1f7cb7b626498a
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
