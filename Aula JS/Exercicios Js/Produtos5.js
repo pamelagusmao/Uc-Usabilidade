@@ -32,5 +32,6 @@ const produtos = {
       
       priceAlert.style.display = "none"; 
       invalidAlert.style.display = "block"; 
+      
     }
   });
